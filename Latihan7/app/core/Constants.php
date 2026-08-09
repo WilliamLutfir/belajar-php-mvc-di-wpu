@@ -1,0 +1,1 @@
+<?php const BASEURL='http://localhost/phpmvc/Latihan7/public';
